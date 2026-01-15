@@ -34,7 +34,7 @@ Trained and evaluated multiple ML classification models:
 
 * Support Vector Machine (SVM)
 
-* XGBoost
+* XGBoost (2nd Best)
 
 * LightGBM (Best Performance)
 
